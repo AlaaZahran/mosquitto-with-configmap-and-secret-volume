@@ -1,6 +1,6 @@
 
-# Project Title
-Create mosquitto  pod with configmap and  secret volume.
+# Create mosquitto  pod with configmap and  secret volume.
+
 
 # Description 
 This project aims to create  mosquitto  pod with configmap volume  which iclude some configuration for this pod  and  secret volume to encrypt some value.
